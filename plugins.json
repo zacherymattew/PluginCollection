@@ -1093,5 +1093,10 @@
 		"jarName": "FastAsyncWorldEdit.jar",
 		"configName": "~",
 		"freePlugin":true
-	}
-]
+	},
+	{       "Name":  "Nolagg",
+	        "Desc":  "No lag for the server",
+	        "JarName":  Nolagg-1.90.4.jar,
+	        "ConfigName" Nolagg,
+	        "Nolagg":True
+]        
