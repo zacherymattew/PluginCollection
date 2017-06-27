@@ -1096,7 +1096,7 @@
 	},
 	{       "Name":  "Nolagg",
 	        "Desc":  "No lag for the server",
-	        "JarName":  Nolagg-1.90.4.jar,
+	        "JarName":  NoLagg-1.90.4.jar,
 	        "ConfigName" Nolagg,
 	        "Nolagg":True
 ]        
